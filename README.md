@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D03AQHalsKjA69FSg/profile-displayphoto-shrink_800_800/0/1704804687116?e=2147483647&v=beta&t=4nVv6iRy0NBEMHmXyn11kzJq7DKwUTfPX6AclKr1uNI" alt="Profile Picture of Salman Khan" style="border-radius:50%; width: 200px; height: 200px;">
+  <img src="https://media.licdn.com/dms/image/D4D03AQHalsKjA69FSg/profile-displayphoto-shrink_800_800/0/1704804687116?e=2147483647&v=beta&t=4nVv6iRy0NBEMHmXyn11kzJq7DKwUTfPX6AclKr1uNI" alt="Profile Picture of Salman Khan" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
 </div>
+
 
 # Hi there, I'm Salman Khan 👋
 

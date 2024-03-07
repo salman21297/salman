@@ -17,7 +17,7 @@ I'm a 23-year-old cyber security enthusiast and a dedicated student pursuing my 
 ### 📫 How to reach me
 - LinkedIn: [YourLinkedInUsername]([https://www.linkedin.com/in/yourusername](https://pk.linkedin.com/in/salman-ashlor))
 - Twitter: [@YourTwitterHandle]([https://twitter.com/YourTwitterHandle](https://twitter.com/salman_ashlor))
-- Email: your.email@example.com
+- Email: salamn.g21297@iqra.edu.pk
 
 ### ⚡ Fun fact
 - Apart from being a cyber security researcher, I am an avid cuber, always challenging myself to solve puzzles faster.
